@@ -1,4 +1,6 @@
-## Hey there,
-I am an experienced software engineer and technical leader.
+## Hello there,
+I am an experienced software engineer, technical and people leader.
 
-I did web development for a while, but now I mostly work on systems engineering [@SUSE](https://github.com/SUSE).
+I did web development for a long while, but I've always also enjoyed operating software; I am also fascinated by large-scale distributed systems.
+
+I currently lead a team of software engineers making business-critical enterprise Linux systems less painful, [@SUSE](https://github.com/SUSE).
